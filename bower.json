@@ -1,0 +1,20 @@
+{
+  "name": "typescript-angular",
+  "description": "> TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open Source.",
+  "main": "index.js",
+  "authors": [
+    "Fede Crespo <fedecrespo90@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/fedecrespo90/angularTypescript",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
